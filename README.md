@@ -1,5 +1,5 @@
 # WebTraffic-iPhone
-WebTraffic支持iPhone、iPad网页抓包嗅探。可以在无电脑的情况像chrome一样在手机上查看网页的接口和资源。
+WebTraffic支持iPhone、iPad网页抓包接口图片音频视频嗅探。可以在无电脑的情况像chrome一样在手机上查看网页的接口和资源。
 ```
 • 支持的网络数据类型有：XMLHttpRequest, Fetch, image, img, css, icon, video, audio
 
