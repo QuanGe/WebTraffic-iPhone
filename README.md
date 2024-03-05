@@ -13,7 +13,7 @@ WebTraffic支持iPhone、iPad网页抓包嗅探。可以在无电脑的情况像
 ```
 
 # 下载
-您可以使用iPhone或iPad在[点我](https://apps.apple.com/us/app/webtraffic-inspect-network/id6478643561)跳转到苹果商店下载这个app
+您可以使用iPhone或iPad在 [点我](https://apps.apple.com/us/app/webtraffic-inspect-network/id6478643561) 跳转到苹果商店下载这个app
 
 # 教程
 
@@ -32,7 +32,7 @@ WebTraffic支持iPhone、iPad网页抓包嗅探。可以在无电脑的情况像
 
 
 ### m3u8相关
-您可以使用iPhone或iPad在[点我](https://apps.apple.com/us/app/m3u8-mpjex/id6449724938)跳转到苹果商店下载这个m3u8相关app，可以创建m3u8或保存m3u8为mp4.
+您可以使用iPhone或iPad在 [点我](https://apps.apple.com/us/app/m3u8-mpjex/id6449724938) 跳转到苹果商店下载这个m3u8相关app，可以创建m3u8或保存m3u8为mp4.
 
 # 商店截图
 ![Simulator Screenshot - 13P App Store - 2024-02-29 at 17](https://github.com/QuanGe/WebTraffic-iPhone/assets/5510678/edd1a48d-2a4b-4a9b-86f6-500a48f5f5e0)
