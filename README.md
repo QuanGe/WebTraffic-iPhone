@@ -25,13 +25,15 @@ WebTraffic支持iPhone、iPad网页抓包嗅探。可以在无电脑的情况像
 先打开`浏览器`打开一个网址，然后在`网络`中找到自己想要的视频链接(这里可以搜索`mp4`或者`m3u8`)，点击这个链接，点击`response`，然后可以预览视频，在这里可以点击`画中画`按钮，也可以锁屏播放视频，也可以分享到其他app
 ![IMG_0045](https://github.com/QuanGe/WebTraffic-iPhone/assets/5510678/0d1658c8-c4dc-43a3-9345-a16c0f086c0a)
 
-### 跳转到Safari下载mp4
-长按网络中的视频，点击`safari`,播放以后点击分享，选择`存储到文件`
-![IMG_1019](https://github.com/QuanGe/WebTraffic-iPhone/assets/5510678/fd694795-75d7-4cb2-816b-d4798febbe68)
+复制视频链接：点击`分享`然后`复制`链接
+### Safari保存mp4视频到相册
+将复制的视频链接放在Safari播放，播放以后点击分享，选择`存储到文件`
+![IMG_1020](https://github.com/QuanGe/WebTraffic-iPhone/assets/5510678/65a1f290-4e52-401d-b366-c1e915b55acc)
+
 
 ### m3u8相关
 您可以使用iPhone或iPad在[点我](https://apps.apple.com/us/app/m3u8-mpjex/id6449724938)跳转到苹果商店下载这个m3u8相关app，可以创建m3u8或保存m3u8为mp4.
 
 # 商店截图
-![1图片](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/d2/0c/20/d20c2061-efcc-44b2-43c1-3d94229dfed0/a796c36f-7c0c-4274-9ad7-dc4a6cbeaa74_Simulator_Screenshot_-_13P_App_Store_-_2024-02-29_at_16.00.21.png/460x0w.webp)
-![2图片](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/a8/00/c6/a800c6b1-4866-f312-e651-fe1eb6b80f9d/37bfea78-b920-4720-9b89-5a1dbfa401f4_Simulator_Screenshot_-_13P_App_Store_-_2024-02-29_at_16.27.55.png/460x0w.webp)
+![Simulator Screenshot - 13P App Store - 2024-02-29 at 17](https://github.com/QuanGe/WebTraffic-iPhone/assets/5510678/edd1a48d-2a4b-4a9b-86f6-500a48f5f5e0)
+
